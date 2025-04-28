@@ -1,0 +1,1100 @@
+[
+    {
+        "prompt_number": 1,
+        "ner_clusters": [
+            {
+                "entity_cluster": "DATE: 15 Nyakanga 2023 | 15 Ukwakira 2023",
+                "appeared_in": 5
+            },
+            {
+                "entity_cluster": "DATE: uyu mwaka",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: Ku cyumweru gishize ku saa cyenda zuzuye | gicamunsi cyo kuwa Gatandatu saa cyenda zuzu",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "DATE: Nyakanga",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: ku wa Gatandatu | ku wa gatandatu gatanu",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "DATE: si w\u2019 ha",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: Kuva mu gitondo cyo kuri uwo munsi saa munani z\u2019amanywa",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Kigali | Kigali Arena",
+                "appeared_in": 6
+            },
+            {
+                "entity_cluster": "LOC: Nyamir Ni geria",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rukundo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: My",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Nyand Nyandwi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Stade de l'Amiti\u00e9",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Stade Amahoro",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Twisungan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Stade Mpuzamahanga",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rwanda",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: ku Cyumweru",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Nyamirambo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: APR FC APR",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: Rayon Sports | Rayon Sports Rayon",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: Impinduramatwara FC induramatwara FC",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: n ' Imp \u2019",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Intare FC | Intare FC n\u2019Ingabo SC Intare FC",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "ORG: Muhoza FC",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Gasabo FC | Gasabo United",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "ORG: Nyamirambo Stars | Nyamirambo United",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: Inkuba FC",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Ubwiza United",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: n \u2019",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Ingwe SC",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Nyarugenge FC",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Fantasia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: FC Indatabigwi FC Inkundamajoro FC Inkundamajo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Inga",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: bo SC SC",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Emmanuel Okeke",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Karemera",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mbabazi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Karera Jean Paul",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ndayizeye Theoneste",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jean-Claude Mukamana",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Harerimana Pierre",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Maniraguha Jacques",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nsabimana Eric",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kamanzi Jean Luc",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ndizeye Felix",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Rutabayiro Jean Claude",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Munezero Alice",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Rugamba Peter",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: bble",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ntaganzwa Eric",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ntaganzwa Kanyam",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Niyonzima Eric",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ngendahimana John",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mugisha Patrick",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mwizerwa Jean Claude",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Patrick",
+                "appeared_in": 1
+            }
+        ]
+    },
+    {
+        "prompt_number": 2,
+        "ner_clusters": [
+            {
+                "entity_cluster": "DATE: kwezi kwa Kanama | kwezi kwa Nyakanga",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "DATE: 15 Ukwakira",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: 2023",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "DATE: 15 Kanama 2023",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: saa kumi z",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Ki Kigali | Kigali | Kwezi Kigali",
+                "appeared_in": 7
+            },
+            {
+                "entity_cluster": "LOC: gali",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Stade Amahoro",
+                "appeared_in": 4
+            },
+            {
+                "entity_cluster": "LOC: Kwezi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Remera",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Amahor | Sitade Amahoro",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "LOC: Benja",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Kama",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rwanda",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "LOC: ' A",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: furika y'Iburasirazuba",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Teta",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Nt Ntwali",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Kabandana",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: majyaruguru y'igi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rubanda",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kwezi | Kwezi Habimana Kwezi",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Kwizera Benjamin Ben",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Charly",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nina",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mani Martin",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Munabi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kamanzi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: nzi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Teta Mwiza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: wali",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kabandana Jean",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: John Uwitonze",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kenny Bosco",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Marie Angel",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: BK Arena",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Karahanyuze Band",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Queens",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Afrobeat",
+                "appeared_in": 1
+            }
+        ]
+    },
+    {
+        "prompt_number": 3,
+        "ner_clusters": [
+            {
+                "entity_cluster": "LOC: Nyabigoma | Nyabihu | Nyamiko | Nyamiringa",
+                "appeared_in": 4
+            },
+            {
+                "entity_cluster": "LOC: Karongi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Kigal | Kigali",
+                "appeared_in": 4
+            },
+            {
+                "entity_cluster": "LOC: Nyabugogo | Nyamugari",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Rugarama",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Kanyantanga",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rukerereza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Gatare",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Karuhuko Ganza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Keza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nyirahabimana | Nyirahabimana Cecile",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kamal",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nshimiyimana Jean",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nyirarukundo Agnes Agnes",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Rukundo | Rukundo Jean",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Aline | Uwase Aline",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Immacul\u00e9e Im macul\u00e9e",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Chantal",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ny",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: rabatatu Nyirabatatu Musabimana Kamurinda",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nyirankundwa",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Rosine",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Alice Jane",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kevin",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jean",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mukamwezi Janet",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ganza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mukandayisenga Claudine Claudine",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Karega Jado Jado",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: Ku wa Gatanu",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: 2023",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: gicamunsi cyo kuwa kabiri",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: Kanyiramobata",
+                "appeared_in": 1
+            }
+        ]
+    },
+    {
+        "prompt_number": 4,
+        "ner_clusters": [
+            {
+                "entity_cluster": "PER: Bwana | Bwana Gasana Jean Bosco Bwana Gasana | Bwana Rugwiro",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "PER: Nicodeme Rugwiro Rugwiro",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Rugero Rug",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ndahiro",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jean Bosco Nkurunziza Jean Bosco | Jean Bosco Nshimiyimana",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Nshimiyimana",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mariya Mukamana Mari Mariya",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nkurunziza | Samuel Nkurunziza Nkurunziza Bwana Nkurunziza",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Samuel Habimana",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Thaddeus Murenzi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ndagijimana | Samuel Ndagijimana",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rugwero",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rwanda",
+                "appeared_in": 4
+            },
+            {
+                "entity_cluster": "LOC: Kigali",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Rug",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Kinya Ryamu | Kinyarwa",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Nyabyondo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Karunji majyepfo ya Afurika y'Iburasirazuba Nyamaz Murenzi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Mberakurume",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: OCCU",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: RIB",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Rwanda Investigation Bureau",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Minisiteri y'Ubucuruzi n'Inganda",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: RCA",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: nteko",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: kwa Nzeri 2023",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: 2018",
+                "appeared_in": 1
+            }
+        ]
+    },
+    {
+        "prompt_number": 5,
+        "ner_clusters": [
+            {
+                "entity_cluster": "ORG: Ishyaka ry'Ubusugire n'Ubutabera IUB) n'Ishyaka rya Demokarasi n'Iterambere | Ishyaka rya Demokarasi y\u2019Akanunu | ishyaka rya Demokarasi Yuzuye",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "ORG: IDI",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Demokarasi Iharanira Ubwumvikane",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: DIB DY",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: n IU",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ry\u2019Iterambere n\u2019Ubumwe",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Democratic Front Party",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: DFP",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: mahoro n",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Ubumwe Ubumwe bw'Abakozi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Peace and Unity Party | Workers Unity Party",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: PUP",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Green Hope Party",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: GHP",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: shyaka ry",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: WUP",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: DAK",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Ishyaka ry\u2019Iterambere ry\u2019u Rwanda",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: IRI IR | IRR",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: Ishyaka ry\u2019Icyerekezo Gishya",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ICG",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: \" TH",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Ishyirahamwe Riharanira Impinduka",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: \"Iterambere Ridaheza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Twese Hamwe",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: buta",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Demokarasi n'Iterambere",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Ruh | Ruhinyura Ruhinyura Rw'ejo | Ruhuka",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Kinyoni",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Nyabi | Nyandwi",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Nyamibiro | Nyamweru | Nyarucurama",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Nirere",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Demo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: kara",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: si n\u2019Ubutabera",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: bura",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Tweterane",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Demokorasi Nyarwanda",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ntamparirwa | Ntamparirwa Jean",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kamikazi Rose",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Bwana Mukuru",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ingabire",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Bwana Kamanzi | Bwana Kayitare",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Mada",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Mukarubibi",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kay",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Anita Mugwaneza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Robert Nkurunziza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Paul Rugamba",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Francine Uwase",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nyarwanda",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Samusoni Rugwiro Rugwiro",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ruzira",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ishema",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mukamana | Rose Mukamana",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Manariyo Bosco. Bosco",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jean Mwiza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Louise Ingabire Louise",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Bernard Rukundo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mugeni",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Twagiramungu",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kanyaruhinga Petero",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Uwamwezi Claudine",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nyiramugisha Patrick",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jeannette Mukamurenzi Jeannette",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Pierre Habamungu",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Pierre",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Andr\u00e9 Nziza",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: mpera z\u2019uyu mwaka",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: Uy mwaka uyu mwaka",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: 2023",
+                "appeared_in": 2
+            }
+        ]
+    },
+    {
+        "prompt_number": 6,
+        "ner_clusters": [
+            {
+                "entity_cluster": "PER: Hanyurwimfura Jean-Baptiste Jean-Baptiste",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kamanzi | Kamanzi John Kamanzi",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: John",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kanyar",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: a Nyiranshimiyimana",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Kan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mugisha Jean Mugisha",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nyiramana Agnes",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nyamir Nya",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Manirafasha Jean Baptiste Jean Baptiste",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Bwana Karangwa",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ny",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Karinganire",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Rwema",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Musanze | Rugarama Musanze",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "LOC: majyaruguru y\u2019u Rwanda",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Kigali",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Kanyar",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rukumbeli",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Nyabihu | Nyamicucu",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Mukunga",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rugoma",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Busogo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: N",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Nzeli Nyabushake",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Nyamivu",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Ga",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Karingan Nyagas Ka",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Bukuba",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Ruganda",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ringan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Nyiragongo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Nya",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rwema",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: kwezi kwa zeli mu cyumweru cya kabiri",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: nyejana",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: saa tanu z'ijoro",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: Kanyamajana",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "DATE: kanga",
+                "appeared_in": 1
+            }
+        ]
+    }
+]

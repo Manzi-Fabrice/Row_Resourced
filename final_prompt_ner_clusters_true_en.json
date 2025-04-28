@@ -1,0 +1,1884 @@
+[
+    {
+        "prompt_number": 1,
+        "ner_clusters": [
+            {
+                "entity_cluster": "MISC: C",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "MISC: of the",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Clash",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Battle of Ironbridge | Battle of Ironclad Stadium",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "MISC: Great Game",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Thunder of Rivals",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: C of R",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##ry | ##ry ' s Pinnacle",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "MISC: Clyden Cup",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Silver Cup",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Maestro",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Falcon",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Cannon",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##dio",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Ironclad Titans Titans | Titans | of Titans | the Titans",
+                "appeared_in": 4
+            },
+            {
+                "entity_cluster": "ORG: Fortisburg Falcons Falcons",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Rivertown Raptors Raptors",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: River",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Rap",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Navarro",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##lies | ##rn",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: Fe | Iron",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: ##rnbrook Falcons Fernbrook Falcons Falcons",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Riverdale Rovers Rovers",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Falcon",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Rover",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Elm",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Ironbridge Eagles Eagles",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Steel Town Cobras Cobra",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Iron Wall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Flash",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: C",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##restwood Hawks Hawks",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Brookside Bears Bears",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Wall",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: Ravencroft Wildcats Wildcats",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Hilltop Hawks Hawks | River City Hawks Hawks | Riverton Hawks Hawks Hawk | Silver Hawks | West Haven Hawks Hawks",
+                "appeared_in": 5
+            },
+            {
+                "entity_cluster": "ORG: ##lash",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Crimson Wolves Wolves | Greenbriar Wolves Wolves | Woodsend Wolves Wolves",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "ORG: Woods",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Thunder Bay Grizzlies",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Griz",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Hawk | Hawk ' s Eye",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: G",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Hunter",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: St",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Elmbridge Thunderbolt Thunderbolt",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Thunder",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: The",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Zonara Z",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##ona ##dio",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Crimson",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Fort",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##isburg",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Falcon Stadium | Meadow Stadium",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Fe",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##brook",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Ironbridge",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: C",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##restwood | ##restwood Stadium",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Ravencroft",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Woodsend",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##end | ##n",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Silver Lake Stadium",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Elmbridge Elmbridge Stadium",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Greenbriar",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##clad Stadium",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Veridion Veri",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Z",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##n Colosseum",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jake | Jake Jake Carter",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "PER: Lawson",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elena Morales Elena",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Reynolds",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Olivia | Olivia Marshall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jason | Jason Tran",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nathan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jake Thompson Thompson | Thompson",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Lucas",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Jason Mitchell Jason",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ethan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: The",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "PER: Reed",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jack Sterling Jack",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Aaron | Aaron Blake",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Lucy",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Alex",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Matt",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Hunter",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Rocket",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Richards",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Leo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jackson",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sam",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Marcus",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Leone",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Julian",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Rivera",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elijah",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Holt",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Reilly",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Carter",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Simmons",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Brick Wall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Johnson",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elena Rivers",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Vaughn",
+                "appeared_in": 1
+            }
+        ]
+    },
+    {
+        "prompt_number": 2,
+        "ner_clusters": [
+            {
+                "entity_cluster": "LOC: Eldridge Hollow",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Vermont",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Eldridge",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: The",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Ha El",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##rmonville",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Prism Arena",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Harmonville",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Grand Marceau Hall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Aldenbridge | Aldenbridge Symphony Hall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Great Morrison River",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Aurora Amphitheater",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Lu",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##ous Hall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Empty Hall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Midtown",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Grand Meridian Concert Hall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Grand",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Verenthia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: V The Ce",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##erenthia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##tial Dome",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Theater",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Argenport",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Concordia Hall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Anton Blake",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Anton",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: El | Elara El",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "PER: ##ara | ##ara V ##ara",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Oliver | Oliver Gray",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##ara Windermere",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ad",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##rien Lorne ##rien",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Adrien",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Clara",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Fiona Lumis Fiona",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Melanie Sinclair Melanie",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Angel",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nathaniel Archet Nathaniel",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elias Hartman",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elias",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Whithered Page",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: El Al",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Meridian",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##les",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: L",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##yric",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##ara Vos",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Journey through Sound",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: The",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "MISC: Unity Games",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Concert Under the Stars",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Symphony of Silence",
+                "appeared_in": 1
+            }
+        ]
+    },
+    {
+        "prompt_number": 3,
+        "ner_clusters": [
+            {
+                "entity_cluster": "LOC: Eldridge Hollow Hollow",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Summer Creek | Willow Creek",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Maple Drive | Maple Lane | Maplewood",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "LOC: Amber Hollow",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: W | Whis W",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: ##per | ##pers of",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: Main Street",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Elm Street",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##ry",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Eldermere",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Ashwick Ash",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Pines ##ing Pines ##pering Pines Whispering Pines",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Rose Garden",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Everwood",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Crimson Ridge",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Hawthorne",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Clara | Clara Whitmore",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Robert Whitmore",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Robert",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ethan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Amelia | Amelia Rhodes",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Daniel",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Lily",
+                "appeared_in": 7
+            },
+            {
+                "entity_cluster": "PER: Eleanor Blackwood Eleanor | Eleanor Hayes Hayes Eleanor | Eleanor Whitmore Eleanor Whitmore",
+                "appeared_in": 4
+            },
+            {
+                "entity_cluster": "PER: Aiden",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: James",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Amber",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Thomas",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Black",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mark Hayes",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mark",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Price",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Charles",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Whit",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Margaret | Margaret Fletcher",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Helen Marlow David Marlowe",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Andrew",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Helen",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: David",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Margaret Hawthorne Margaret",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jonathan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sarah Holloway",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Tom",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sarah",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Victorian",
+                "appeared_in": 4
+            },
+            {
+                "entity_cluster": "MISC: Shadows | Shadows of W",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "MISC: Shadows of Amber Hollow",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Clay",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##pering | ##pering Shadows",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "MISC: Town",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##ence",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Summer",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Blackwoods",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##wood",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: PTA",
+                "appeared_in": 1
+            }
+        ]
+    },
+    {
+        "prompt_number": 4,
+        "ner_clusters": [
+            {
+                "entity_cluster": "MISC: ##en Throne",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: S",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##tered Illusion",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Shadows",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Citadel Once | of the Citadel",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "MISC: Fall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: of a Beacon",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##es of Valor",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: He",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Gilded Maze",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Harvest Festival",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Shadows Over Sovereignty",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Eldoria",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "LOC: Althea",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Verenthia Vere",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##hia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Lumina Heights",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Serenthia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Shadows",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Cavendale",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Solara",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Arcadia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: The",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Grayson ' s Tower",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Lucian Alistair Lucian",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: William Hartman",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Amelia Reed Amelia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Alexander Veridan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Alexander",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sarah Young",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Max Turner",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elias | Elias Mercer",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Clara | Clara Weaver",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: El",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: ##andra Solama",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nathaniel | Nathaniel Cole",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Cassandra",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Levy",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##ara | ##ara Morton | ##ara Wainwright",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Al Alari El | Alari El Al",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: ##ari",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##c Thorn Thorn",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Morgan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: He",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Richard Grayson Grayson",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Richard",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Evander Hartsfield Hartsfield Hart",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Alan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##a Fisk",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: El | El Ser | El V",
+                "appeared_in": 6
+            },
+            {
+                "entity_cluster": "ORG: Verenthian Institute of Politics",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##lon | ##nt",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: Am",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Disc",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Royal Treasury",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: A",
+                "appeared_in": 1
+            }
+        ]
+    },
+    {
+        "prompt_number": 5,
+        "ner_clusters": [
+            {
+                "entity_cluster": "MISC: Winds of Change",
+                "appeared_in": 4
+            },
+            {
+                "entity_cluster": "MISC: Tide",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Great Election Gala",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Battle for",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "MISC: New Dawn",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Harvard",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Trail",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Race for Solaria",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Dawn of Solarian Politics",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##s ##ian",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Wave",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##ant",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Call to Arms",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Tides of Destiny",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##hian",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Ara",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##pers of",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Gathering Storm | Storm",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "MISC: Traditional",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Tapestry of Voices",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Avoria",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Valeront A",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##vor",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Clarendon Heights",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Glen",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Lake",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Clare",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Heights",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: E",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##ll",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Solaria",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Elaria | Eldoria El",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: ##aria",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Verd",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Valley ##ant Valley Verdant Valley",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##erd",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Arant | Aranthia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##hia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Willow Creek",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Midlands",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##ia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Almaris",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Sa A",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##pphire Mountains",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##zure Sea",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Progress Alliance | Progressive Alliance | Progressive Alliance for Unity",
+                "appeared_in": 5
+            },
+            {
+                "entity_cluster": "ORG: PA",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "ORG: Traditional Unity Party | Unity Party",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "ORG: TUP",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Green Horizon Movement Horizon Movement",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: GHM",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Green | Green Vision",
+                "appeared_in": 3
+            },
+            {
+                "entity_cluster": "ORG: Lila",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Amar",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Unity | Unity Front",
+                "appeared_in": 4
+            },
+            {
+                "entity_cluster": "ORG: UP",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: E",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: People ' s Reform Movement",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: PRM",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: Solaria Reform",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Solar",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Liberty Front",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: LF G",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Lily",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Wang",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Elena",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Elaria El",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Progress Party",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Green Future Alliance",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Sofia",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "ORG: Progressive Green Party",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: V",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##ant Conservative Union",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: United Labor Front",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: New Wave Alliance",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: National Assembly",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Arant",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: PAU",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Conservative Heritage Front",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: CHF",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##nt",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: People ' s Renaissance Movement",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Traditionalists",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: New Horizons Party",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Green Springs Initiative",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Future",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Movement",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Eldrian",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Senate",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Pro",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##sperity Party Prosperity Party",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Green Horizon",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: ##dor",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Radiant Coalition",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Verdant League",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Alma",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Roots",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Amar",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##a Voss",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sebastian Locke Sebastian",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sarah Griffin Griffin",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Harold Monroe Monroe",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Emily Zhao",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sarah",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Harold",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Edmund Cast Edmund",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Lydia Aran Lydia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: E",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nathan Caldwell",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elena Marshall",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Amir Khan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Simon Grayson",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Adrian Novak",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Adrian",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sofia | Sofia Castell",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elena Marsh Elena | Elena Torres Elena",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Mia Harper Harper",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Thomas | Thomas B Thomas",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: ##kley",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Evelyn T Evelyn",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Carlos Mendoza Carlos",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Ra",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Hugo Stalworth",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Hugo",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Z",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##ara Donovan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Marsh",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Eleanor Pembroke Eleanor",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Aaron Talbot",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Aaron",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Cassandra Voss Cassandra",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Reginald",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Reggie",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Nathaniel",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Boone",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Victor Gant",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Victor",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sophia Martell Sophia",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Lin",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##a Verde",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Thomas Arkwright",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Sofia Marlowe",
+                "appeared_in": 1
+            }
+        ]
+    },
+    {
+        "prompt_number": 6,
+        "ner_clusters": [
+            {
+                "entity_cluster": "MISC: Storm",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "MISC: Z",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Wind",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: of Des",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Re",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: ##oar of the Storm",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "MISC: Shadows",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Elmsworth Elm",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Elderton",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Eldermere",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Eldergrove",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "LOC: ##grove",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Maple Street",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Riverton",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Main Street",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Seaward Bay",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Penny Lane",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Ma",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##vericks Landing",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Eye",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: ##truction",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Colorado",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Evergreen",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Elmsford",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "LOC: Blue Ridge Mountains",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Owen Reed Owen",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elijah Thompson Elijah",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Al",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##den Wright",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Elder",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Clara",
+                "appeared_in": 2
+            },
+            {
+                "entity_cluster": "PER: Celeste",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Clara Hensley",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mayor Winslow",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Tom",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Evelyn | Evelyn Starling",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Mike",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: El",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: ##ara Dunn ##ara",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Lay",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Emily | Emily Santiago",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Oliver",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: O",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Emma Caldwell Emma",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jonathan Weaver",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "PER: Jonathan",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Elder Eldergrove",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: El",
+                "appeared_in": 1
+            },
+            {
+                "entity_cluster": "ORG: Cross",
+                "appeared_in": 1
+            }
+        ]
+    }
+]
