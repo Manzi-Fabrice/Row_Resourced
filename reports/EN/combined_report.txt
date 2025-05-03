@@ -1,0 +1,21 @@
+=== Combined Repetition Report (EN) ===
+
+---- prompt_23 ----
+| Entity | Direct Rate | Component Rate |
+|--------|-------------|-----------------|
+| PER  |     12.50% |          18.75% |
+| LOC  |      4.55% |           6.25% |
+| ORG  |     16.67% |          14.29% |
+| DATE |      0.00% |           0.00% |
+
+Top Repeating Entities:
+- PER: Aria
+- LOC: Tokyo
+- ORG: Aurora
+
+Top Repeating Components:
+- PER: aurora, aria
+- LOC: tokyo, amphitheater
+- ORG: aurora
+
+==================================================

@@ -1,0 +1,241 @@
+json_file,story_id,ner_tagging,number_of_ner_tags
+22_answer.json,1,"{'LOC': ['Nyakubahwe', 'Kagoma'], 'ORG': ['Polisi y']}",3
+22_answer.json,2,"{'LOC': [""Afrika y'Iburasirazuba"", 'Nyamirambo', ""Afurika y'Uburasirazuba""]}",3
+22_answer.json,3,"{'DATE': ['2023'], 'ORG': ['""Intare FC', '""', 'Intare FC']}",4
+22_answer.json,4,"{'ORG': ['""Sikubwabo Stars', 'Sikubwabo Stars']}",2
+22_answer.json,5,"{'LOC': ['Ruritania'], 'ORG': ['""', 'Inkingi FC', 'Ibiyaga United']}",4
+22_answer.json,6,"{'LOC': ['Serengeti', 'A', 'majyam'], 'ORG': ['""', 'Imena FC'], 'DATE': ['Kane']}",6
+22_answer.json,7,"{'LOC': ['Karandiro'], 'DATE': ['2023', 'kwa', 'Nyakanga'], 'ORG': ['Nyamirambo Stars', 'Cyivugiza FC'], 'PER': ['Bwana Mafara']}",7
+22_answer.json,8,"{'LOC': ['Rugwiro', 'Afurika'], 'ORG': ['Gikundiro FC', 'Ingabo United'], 'DATE': [""irushanwa ry'uyu mwaka""]}",5
+22_answer.json,9,"{'DATE': ['2023', 'uyu munsi'], 'ORG': ['Agasaro FC', 'Sunrise United'], 'LOC': ['Kigali']}",5
+22_answer.json,10,"{'ORG': ['""', 'Intare FC', 'Imena United', '""Imena United']}",4
+10_answer.json,1,"{'PER': ['Kamanzi Jean-Claude', 'Jean-Claude', 'Kamanzi'], 'DATE': ['17 z’ukwezi kwa', 'Nyakanga']}",5
+10_answer.json,2,"{'LOC': ['Biring', 'Ru'], 'PER': ['Karera John', 'Bwana Ndayishimiye'], 'DATE': ['5 Mutarama']}",5
+10_answer.json,3,"{'LOC': ['Ubuh', 'Gikundiro'], 'PER': ['Gashema']}",3
+10_answer.json,4,"{'DATE': ['2028', 'mpeshyi y’uwo mwaka', 'kwezi kwa Kanama'], 'PER': ['Kamanzi']}",4
+10_answer.json,5,"{'LOC': ['Zabuntu'], 'PER': ['Kayumba Ntamuhanga', 'Kayumba', 'Mukunguri'], 'DATE': ['2015,']}",5
+10_answer.json,6,"{'PER': ['Manzi Rugamba', 'Rugamba'], 'DATE': ['5 Ukwakira']}",3
+10_answer.json,7,"{'PER': ['Nkoramutima'], 'LOC': ['Kavukire', 'Kav', 'Nkoramutima'], 'DATE': ['2023', '15 Werurwe 2023']}",6
+10_answer.json,8,{'LOC': ['Kalisan']},1
+10_answer.json,9,"{'DATE': ['2022', '5 Kamena'], 'LOC': ['Karisi', 'Karisimbi', 'Valence', 't'], 'PER': ['Jean-Paul Ntaganda', 'Jean-Paul']}",8
+10_answer.json,10,"{'LOC': ['Karisi', 'Kigali'], 'PER': ['Kamana Jean-Paul', 'Kamana'], 'DATE': ['15 Nyakanga']}",5
+05_answer.json,1,"{'LOC': ['Nyabute'], 'PER': ['Rugaba wa Kabiri']}",2
+05_answer.json,2,"{'LOC': ['Nyamuni', 'Nyamunini'], 'PER': ['Rugira', 'Kwezi']}",4
+05_answer.json,3,"{'DATE': ['1895', 'm', 'z', 'u', '1898'], 'LOC': ['Zamunda', 'Bwongereza', 'Kanyar'], 'PER': ['yar', '""', 'Ikizere Gishya']}",11
+05_answer.json,4,"{'LOC': ['Azura', 'Rubona'], 'PER': ['Mwami Rugasira', 'Nkusi Kayitare']}",4
+05_answer.json,5,{'LOC': ['Nyamdruk']},1
+05_answer.json,6,"{'LOC': ['Nyamburabwiza'], 'PER': ['Ny', 'rabwiz'], 'ORG': ['n', 'in', 'teko ishinga']}",6
+05_answer.json,7,"{'LOC': ['Demokarasi'], 'PER': ['Zaman', 'Kayumba']}",3
+05_answer.json,8,"{'LOC': ['Kaleza', 'R', 'wa', 'Demokarasi'], 'PER': ['Kaguru IV']}",5
+05_answer.json,9,"{'LOC': ['Nya', 'Nyamir', 'Kaj'], 'PER': ['Ruganzu II Bahizi', 'Kajuga', 'uga', 'Ruganzu II']}",7
+05_answer.json,10,"{'LOC': ['Rwanda'], 'PER': ['Kayira V', 'Kay', 'Nyirimbabazi Anitha', 'Nyirimbabazi'], 'DATE': ['1960']}",6
+19_answer.json,1,"{'PER': ['Aimé Karame', 'Aimé'], 'LOC': ['Rwanda', 'Afurika y’Iburasirazuba']}",4
+19_answer.json,2,"{'PER': ['Kamari Ndushimiye', 'Rutagira Akagero'], 'LOC': [""Afurika y'Iburasirazuba"", 'Izuba', 'Kamar', 'Burayi']}",6
+19_answer.json,3,"{'PER': ['Ntwari Aimable', 'Aimable'], 'DATE': ['um', 'waka ushize']}",4
+19_answer.json,4,"{'LOC': ['Kigali', 'Rwanda'], 'PER': ['Simbi Nshuti', 'Simbi'], 'ORG': ['Afrobeat', 'Reggae', 'Instagram']}",7
+19_answer.json,5,"{'LOC': ['Karind', 'Afurika', 'Karindwi'], 'ORG': ['Afrobeat', 'Mwezi Star'], 'PER': ['Kavundi Moses'], 'DATE': ['', 'uyu mwaka']}",8
+19_answer.json,6,"{'LOC': ['Nyirarubuga'], 'DATE': ['2025', 'kwa', 'Mutarama 2026'], 'PER': ['Kayitare Mwiza', 'Kayitare']}",6
+19_answer.json,7,"{'LOC': ['Faranga'], 'PER': ['Izuba Nshya', 'Nshya']}",3
+19_answer.json,8,"{'PER': ['Kamariza', 'Kamar']}",2
+19_answer.json,9,"{'PER': ['Mugenzi Kwizera', 'Mugenzi'], 'ORG': ['Nteko Ishinga Amategeko']}",3
+19_answer.json,10,"{'PER': ['Karabo Nyamunsi', 'Nyamunsi', 'Nya', 'si'], 'LOC': ['Kigali', 'mun', 'Afurika']}",7
+09_answer.json,1,"{'LOC': ['Karibu'], 'PER': ['Bwana Kamari', 'Bwana Mugisha'], 'DATE': ['uyu munsi']}",4
+09_answer.json,2,"{'LOC': ['Nyarutan', 'Kayitare'], 'PER': ['Kayitare', 'Bwana']}",4
+09_answer.json,3,"{'LOC': ['Vugubwoba'], 'PER': ['Soma Rutamu', 'Rutamu'], 'ORG': ['R', 'CR']}",5
+09_answer.json,4,"{'LOC': ['Nyamihang'], 'PER': ['Kayihura Muziranenge', 'Bwana Kayihura']}",3
+09_answer.json,5,"{'LOC': ['Nyarugenge'], 'PER': ['Karangwa Jean Paul', 'Bwana Karangwa']}",3
+09_answer.json,6,"{'LOC': ['Nyabugogo'], 'PER': ['Bwana Samuel Kamanzi', 'Bwana Kamanzi', 'Kamanzi']}",4
+09_answer.json,7,"{'LOC': ['Kamonyi', 'Rwanda', 'Bugesera', 'Kamony'], 'PER': ['Kubwimana Jean Bosco', 'Kubwimana', 'Ndayisaba Emmanuel']}",7
+09_answer.json,8,"{'PER': ['Bwana', 'Karangwa', 'Bwana Karangwa'], 'DATE': ['umweru']}",4
+09_answer.json,9,"{'LOC': ['Ndiza'], 'PER': ['Bwana Kamanzi'], 'ORG': ['Inteko']}",3
+09_answer.json,10,"{'LOC': ['Cyanyiramyeba'], 'PER': ['Simeon Kanyamibwa', 'Kanyamibwa']}",3
+15_answer.json,1,"{'LOC': ['Kinyaga'], 'PER': ['Pasiteri Emmanuel Mukiza', 'Pasiteri Mukiza', 'Clarisse Niyonsaba', 'Clarisse'], 'DATE': ['umweru g']}",6
+15_answer.json,2,"{'DATE': ['mpera za Nyakanga 2023'], 'LOC': ['Nyamwijima', 'Rubona', 'Pasiteri Marende'], 'PER': ['Pasiteri Jonas Marende', 'Pasiteri Marende', 'Marende']}",7
+15_answer.json,3,"{'LOC': ['Munezero'], 'PER': ['Simeon Mugenzi', 'Simeon', 'Muganga Josiane', 'Josiane']}",5
+15_answer.json,4,"{'DATE': ['Kanyamugenge'], 'LOC': ['Rwanda', 'Kanyamugenge'], 'PER': ['Pasiteri Simeon.', 'Pasiteri Simeon']}",5
+15_answer.json,5,"{'LOC': ['Kamony', 'majyepfo y’', 'Kigali'], 'PER': ['Pasiteri Gashumba']}",4
+15_answer.json,6,"{'DATE': ['wa', 'Kanyamibwa'], 'PER': ['Pasiteri Emmanuel Nkurunziza', 'Claudine', 'Pasiteri Emmanuel', 'Pasi'], 'LOC': ['Pasi']}",7
+15_answer.json,7,"{'PER': ['Ny', 'Pasiteri Karekezi'], 'LOC': ['Karere k’Amajyaruguru']}",3
+15_answer.json,8,"{'DATE': ['2023'], 'LOC': ['Ndaluka', 'Pasitoro Juvénal'], 'PER': ['Pasitoro Juvénal Mbonyumuryango', 'Pasitoro Juvénal']}",5
+15_answer.json,9,"{'DATE': ['Nyamirembe'], 'PER': ['Pasiteri Ezra Nkundabarezi', 'Ezra', 'Pasiteri Ezra']}",4
+15_answer.json,10,"{'ORG': ['Ru', 'jo', 'Kinyaga News'], 'PER': ['Rw', 'U', 'Pasiteri Samuel'], 'LOC': ['Kinyaga'], 'DATE': ['kuri iki cyumweru gishize']}",8
+16_answer.json,1,"{'LOC': ['Kigali', 'Gasabo'], 'PER': ['Fabrice Ndayisaba', 'Bwana Ndayisaba']}",4
+16_answer.json,2,"{'LOC': ['Nyabyondo', 'Gasabo'], 'ORG': ['""', 'Urumuri High School', 'Gasabo Times'], 'PER': ['Samuel Ntigurirwa', 'Bwana', 'Ntigurirwa', 'Bwana Ntigurirwa']}",9
+16_answer.json,3,"{'LOC': ['Kigali', 'Rwanda'], 'PER': ['Ndayizeye Tharcisse', 'Bwana Ndayizeye', 'N'], 'DATE': [""nyuma cy'umwaka""]}",6
+16_answer.json,4,"{'ORG': ['""', 'Urumuri Academy'], 'PER': ['Ndahiro', 'N', 'iro'], 'DATE': ['kwa', 'Nyakanga'], 'LOC': ['dah', 'Ndah']}",9
+16_answer.json,5,"{'LOC': ['Nyamweru'], 'PER': ['Bwana Kwezi', 'Kwezi']}",3
+16_answer.json,6,"{'LOC': ['Kamenge'], 'ORG': ['""', 'Indatwa', 'Indatwa Academy', 'In', 'wa'], 'DATE': ['2000,'], 'PER': ['Bwana', 'Jean Bosco Nshimiyimana', 'Nshimiyimana', 'Bwana Nshimiyimana', 'Agnes Mukamana', 'Mukamana', 'Bwana Nshi']}",14
+16_answer.json,7,"{'LOC': ['Karangazi', ""majyaruguru y'u Rwanda"", 'Nyabikenke', 'Mbonimpa', 'Maga', 'Rwanda'], 'PER': ['Tawanda Mbonimpa', 'Bwana', 'Mbonimpa', 'Bwana Mbonimpa']}",10
+16_answer.json,8,"{'LOC': ['Kinya', 'Kigali'], 'PER': ['Emmanuel Ntakirutimana.', 'Emmanuel', 'Emmanuel Ntakirutimana']}",5
+16_answer.json,9,"{'PER': ['Bwana Murenzi', 'Jean-Paul Murenzi', 'Murenzi'], 'LOC': ['Ruswa', 'Kigali', 'Murenzi'], 'ORG': ['""', 'Amahoro Academy'], 'DATE': ['2023']}",9
+16_answer.json,10,"{'LOC': ['Nya'], 'PER': ['Bwana Rugwiro']}",2
+24_answer.json,1,{'LOC': ['Veridiana']},1
+24_answer.json,2,"{'PER': ['Karisimbi'], 'LOC': ['Rukundo']}",2
+24_answer.json,3,{'DATE': ['2025']},1
+24_answer.json,4,"{'LOC': ['Kandala'], 'DATE': ['', 'ze']}",3
+24_answer.json,5,{},0
+24_answer.json,6,{},0
+24_answer.json,7,"{'PER': ['Zidasanzwe Zatum', 'Yose Yegura'], 'ORG': ['ye Federasiyo y’Imik', 'Federas', ""y'I""]}",5
+24_answer.json,8,"{'LOC': ['Ny'], 'DATE': ['iributungan', 'Ku wa mbere w’icyumweru gishize']}",3
+24_answer.json,9,"{'ORG': ['Kalevala', 'Federasiyo y’Imikino'], 'DATE': ['15 Ukwakira 2023', 'umwer']}",4
+24_answer.json,10,"{'LOC': ['Nyirarubuga', 'Ny', 'Muvandimwe'], 'ORG': ['irarub']}",4
+03_answer.json,1,"{'PER': ['Bwana Kavuna'], 'ORG': ['nteko ishinga amateg', 'b', 'inteko ishinga amateg']}",4
+03_answer.json,2,"{'LOC': ['Nayiraland', 'Kibingo'], 'PER': ['Samuel Ndayishi', 'Samuel'], 'DATE': ['2015,', '2020']}",6
+03_answer.json,3,"{'LOC': ['Karunda', 'Afurika', 'hagati'], 'PER': ['Samuel Nkundiye', 'Samuel']}",5
+03_answer.json,4,"{'LOC': ['Karunji'], 'PER': ['Mugenzi Kabera', 'Mugenzi'], 'ORG': ['nteko ishinga amateg']}",4
+03_answer.json,5,"{'DATE': ['1985', '1990', '1997'], 'LOC': ['Karunji'], 'PER': ['Samuel Ngabo', 'Samuel', 'Karunji'], 'ORG': ['nteko ishinga amateg']}",8
+03_answer.json,6,"{'LOC': ['Zanzelandia'], 'DATE': ['2020', '2021'], 'PER': ['Samuel Kalinzi', 'Kalinzi']}",5
+03_answer.json,7,"{'LOC': ['Nyamwanda', ""majyaruguru y'igihugu""], 'PER': ['Samuel Nkurunziza', 'Samuel']}",4
+03_answer.json,8,"{'PER': ['Kamanzi'], 'LOC': [""rya Demokarasi n'Uburinganire"", 'Burayi']}",3
+03_answer.json,9,"{'LOC': ['Karundura', 'Nyabigoma'], 'PER': ['Benimana Kamanzi', 'Benim', 'Benimana'], 'ORG': ['""', 'Akarere Kacu Kambere', 'A', 'KK'], 'DATE': ['2027']}",10
+03_answer.json,10,"{'LOC': ['Nyombere', 'Afrika', 'tangaza', 'zi'], 'DATE': ['2015,', '2018', '2020'], 'PER': ['Kabanda Aristide', 'Ka', 'Kabanda']}",10
+06_answer.json,1,"{'DATE': ['kwezi kwa Nyakanga 2023', 'Kinyama', 'Kuwa 18 Nyakanga'], 'LOC': ['kurutu'], 'PER': ['Aloys Kaberuka', 'Kaberuka', 'Bwana Kaberuka'], 'ORG': [""Minisiteri y'Ubucuruzi"", 'Twizerimana Trust']}",9
+06_answer.json,2,"{'PER': ['Bwana', 'Gasimba Rugamba'], 'LOC': ['Bwirabura']}",3
+06_answer.json,3,"{'LOC': ['Nyamping', 'Rwanda', 'Dubai', 'New York', 'Leta Zunze Ubumwe za Amerika', 'Burayi'], 'PER': ['Alfred Mukuru', 'Bwana Alfred Mukuru', 'Bwana Mukuru'], 'ORG': ['enzacy', 'RIB']}",11
+06_answer.json,4,"{'DATE': ['Kanama'], 'PER': ['Karengera Mateke', 'Karengera', 'Bwana Karengera'], 'LOC': ['buk', 'Kanama'], 'ORG': ['Polisi']}",7
+06_answer.json,5,"{'LOC': ['Nyamirambo'], 'PER': ['Karema Jabo', 'Karema']}",3
+06_answer.json,6,"{'DATE': ['kwezi gushize kwa', 'Nzeri', '15 Nzeri'], 'LOC': ['Zamunda', 'Monaco', 'Kagem', 'K'], 'PER': ['Elina Kagemusha', 'Rushin', 'Kurwanya Rus', 'Kagemusha', 'usha', 'agemusha'], 'ORG': ['zwe', 'wa no Kurengera Umutungo wa Leta', 'RCRUM', '""', 'Zamunda Investment Corporation']}",18
+06_answer.json,7,"{'LOC': ['Nyirandi'], 'PER': ['Bwana Simeon Gasana', 'Bwana Gasana'], 'DATE': ['Ku wa gatanu']}",4
+06_answer.json,8,"{'PER': ['Emmanuel Kanziga', 'Bwana Kanziga'], 'DATE': ['15 Ukwakira']}",3
+06_answer.json,9,"{'LOC': ['Kinyase'], 'PER': ['Josue Mvuyekure', 'Bwana', 'Mvuyekure'], 'DATE': ['uyu munsi']}",5
+06_answer.json,10,"{'LOC': ['Nkoronko', ""Afurika y'Iburasirazuba"", 'Kigoroba'], 'PER': ['By', 'Kamanzi']}",5
+13_answer.json,1,"{'ORG': ['TerraCorp'], 'PER': ['Imbuto Nziza', 'Nziza']}",3
+13_answer.json,2,"{'DATE': ['2027'], 'ORG': ['GloboCorp'], 'LOC': ['Amazone', '’', 'Amajyepfo', 'Amazon'], 'PER': ['Herman Vale']}",7
+13_answer.json,3,"{'LOC': ['Nyaburanga'], 'ORG': ['EcoExtract Ltd', 'w', ""'"", 'Abarengera Ibidukikije muri Nyaburanga', 'UIN', 'EcoExtract Ltd.'], 'DATE': ['2023']}",8
+13_answer.json,4,"{'DATE': ['2025', 'Mata 2025'], 'ORG': ['EcoGlobal Industries', 'Our Earth Coalition', 'EcoGlobal', 'Save Our Earth Coalition'], 'LOC': ['Hague']}",7
+13_answer.json,5,"{'LOC': ['Rugira', 'Nyirabirunga', 'majyaruguru', 'Afurika', 'Rug'], 'ORG': ['""', 'GreenFuture International']}",7
+13_answer.json,6,"{'DATE': ['2025'], 'ORG': ['GLOBE-CORP', 'Green Guardians'], 'LOC': ['La Haye']}",4
+13_answer.json,7,"{'DATE': ['2025', '2024'], 'LOC': ['Elmbrook'], 'ORG': ['GlobalCore Industries', 'Green Horizon', 'GlobalCore', '""'], 'PER': ['Jacob Thornton']}",8
+13_answer.json,8,"{'ORG': ['""', 'PetroLux', 'GreenFuture Initiative']}",3
+13_answer.json,9,"{'ORG': ['EcoExtract Global'], 'PER': ['Kumiro Ndikumana', 'Ndikumana']}",3
+13_answer.json,10,"{'DATE': ['2025', 'Kamena 2025'], 'ORG': ['GlobalEco Mining Co', 'GlobalEco Mining Co.', 'EarthGuardians', 'International Tribunal for Environmental Justice', 'ITEJ']}",7
+21_answer.json,1,"{'DATE': ['ku wa gatandatu', '14 Ukwakira 2023'], 'LOC': ['Kigali', 'Rwanda'], 'ORG': ['FC Nyenyeri', 'AS Intare'], 'PER': ['Jean-Claude Ntwari', 'David Ngendahayo']}",8
+21_answer.json,2,"{'DATE': ['ku wa Gatandatu', 'uyu munsi'], 'LOC': ['Kigali', 'Nyamirambo'], 'ORG': ['Nyamirambo FC', 'Kiyovu United']}",6
+21_answer.json,3,"{'DATE': ['ku wa gatandatu'], 'LOC': ['Stade Amahoro', 'Rwanda'], 'ORG': ['Gasore United', 'Intare FC', ""'""], 'PER': ['Kasongo Moses', 'Maniraguha Fabrice', 'Ishimwe Patrick']}",9
+21_answer.json,4,"{'DATE': ['gicamunsi cyo ku wa gatandatu'], 'LOC': ['Kigali', 'Nyarugenge', 'Stade Amahoro', 'Nyarugenge City', 'Gasabo'], 'ORG': ['Gasabo United', 'City'], 'PER': ['Eric', 'Isaie']}",10
+21_answer.json,5,"{'DATE': ['gicuku cyo ku wa Gatandatu', 'ene'], 'LOC': ['Kigali', 'e Amahoro', 'Mw'], 'ORG': ['Simba FC', 'Rayon Sports'], 'PER': ['-Kongo']}",8
+21_answer.json,6,"{'LOC': ['Sitade Nyaruh'], 'ORG': ['Rugamba FC', 'Gasabo United'], 'PER': ['Jean-Claude Habimana', 'Eric Nshuti']}",5
+21_answer.json,7,"{'DATE': ['15 Ukwakira 2023'], 'LOC': ['Kigali', 'Rwanda', 'Ghana', 'Cameroun'], 'ORG': ['Kiyovu Sports', 'Rayon Sports', 'Rayon']}",8
+21_answer.json,8,"{'DATE': ['ku wa gatandatu ushize', 'saa kumi'], 'LOC': ['Kigali', 'Stade Amahoro', 'Kar'], 'ORG': ['AS Kigali', 'Rayon Sports', 'Simba']}",8
+21_answer.json,9,"{'DATE': ['Ku cyumweru gishize'], 'LOC': ['Nyamir', 'Rwanda', 'Gasabo', 'Kicukiro'], 'ORG': ['Gasabo United', 'Kicukiro Stars', 'Bosco'], 'PER': ['Rutahizamu wa', 'Bosco Habimana']}",10
+21_answer.json,10,"{'DATE': ['14 Ukwakira 2023', 'saa cyenda'], 'LOC': ['Nyaruta'], 'ORG': ['Intare FC', 'Ingwe United']}",5
+14_answer.json,1,"{'ORG': [""Republika y'Ubumwe""], 'LOC': ['Afurika']}",2
+14_answer.json,2,"{'DATE': ['gitondo cyo kuwa gatandatu'], 'LOC': ['Rwanda', 'Kigali']}",3
+14_answer.json,3,"{'DATE': ['15 Kamena 2023'], 'LOC': ['Kigali']}",2
+14_answer.json,4,"{'LOC': ['Kigali', 'Afurika', 'Sénégal', 'Tanzaniya', ""Afurika y'Epfo"", 'Mali', 'Rwanda'], 'DATE': ['15 Ukwakira 2023']}",8
+14_answer.json,5,"{'DATE': ['gicamunsi cyo ku wa gatandatu'], 'LOC': ['Ki', 'gali', 'Rwanda', 'Musanze', 'majyepfo', 'Kigali']}",7
+14_answer.json,6,{'LOC': ['Kigali']},1
+14_answer.json,7,"{'DATE': ['15 Ukuboza 2023', '14 Ukuboza'], 'LOC': ['Kigali', 'Rwanda']}",4
+14_answer.json,8,"{'LOC': ['Kigali', ""Afrika y'Iburasirazuba""], 'ORG': [""Minisiteri y'Umuco n'U""]}",3
+14_answer.json,9,"{'LOC': ['Kigali', 'Rwanda']}",2
+14_answer.json,10,"{'LOC': ['Kigali', ""Afurika y'Iburasirazuba"", 'Mura', 'Rwanda']}",4
+08_answer.json,1,"{'PER': ['Mberekande', 'M'], 'LOC': ['bere', 'Mbere', 'Langoma', 'M', 'Lang']}",7
+08_answer.json,2,"{'DATE': ['kwezi kwa', 'Nyakanga', 'uyu munsi']}",3
+08_answer.json,3,"{'DATE': ['2027', '15 Nyakanga', 'saa tatu'], 'LOC': ['burasiraz', 'Kigali', 'shi'], 'PER': ['Andrew Kagame', 'Ja', 'cqueline Nshimye', 'Kagame', 'N', 'mye']}",12
+08_answer.json,4,"{'LOC': ['Ndundure', 'Karama'], 'PER': ['Karama'], 'DATE': ['15 Nyakanga']}",4
+08_answer.json,5,"{'LOC': ['Nyamirambo', 'ih', 'Kigali'], 'DATE': ['2023', '15 Mata 2023'], 'PER': ['Kayihura', 'Kay', 'ura'], 'ORG': ['y', 'umu']}",10
+08_answer.json,6,"{'DATE': ['ondo cyo kuwa kabiri'], 'LOC': ['Kigali'], 'ORG': ['Minisiteri y’Ingabo'], 'PER': ['Kayumba Ndahiro']}",4
+08_answer.json,7,"{'PER': ['Nayizeye'], 'LOC': ['Um']}",2
+08_answer.json,8,"{'DATE': ['ku wa gatanu'], 'LOC': ['Mu', 'ganwa']}",3
+08_answer.json,9,"{'LOC': ['Burerabana', 'Bujumbonza', 'Mugoroba'], 'DATE': ['2027', 'Ku wa kabiri', '’', 'wer', 'c', 'kabiri cy’umwaka'], 'PER': ['Kazungu', 'Mugiraneza']}",11
+08_answer.json,10,"{'LOC': ['Nyamis', 'Nyamisozi', 'Mukundwa'], 'DATE': ['2023']}",4
+01_answer.json,1,"{'PER': ['Bwana Rutaremara', 'Bwana', 'Rutaremara']}",3
+01_answer.json,2,"{'LOC': ['Karisi'], 'PER': ['Bwana Manzi']}",2
+01_answer.json,3,"{'PER': ['Nkurunziza', 'Bwana', 'Habimana Jean Claude', 'Bwana Habimana'], 'ORG': ['Minisiteri y’Iterambere n’Imari'], 'DATE': ['Nzeri']}",6
+01_answer.json,4,"{'LOC': ['Karindara'], 'PER': ['Bwana Karangwa Emmanuel', 'Bwana Karangwa']}",3
+01_answer.json,5,"{'LOC': ['ville', 'Kigali'], 'PER': ['Karangwa Jean Bosco', 'Karangwa', 'me Mukamana Claudine']}",5
+01_answer.json,6,"{'LOC': ['Zamunda'], 'PER': ['Bwana Imanzi Kalinga', 'Kalinga', 'Alina Mbaraga', 'Bwana Kalinga'], 'DATE': ['zi kwa muna']}",6
+01_answer.json,7,"{'PER': ['Bwana', 'Nsabimana Jean-Claude', 'Nsabimana', 'Bwana Nsabimana']}",4
+01_answer.json,8,"{'LOC': ['Kororombiya'], 'PER': ['Bwana Karangwa', 'Irakoze'], 'ORG': ['Minisiteri y’Ubutabera']}",4
+01_answer.json,9,"{'LOC': ['Rwanda'], 'PER': ['Bwana Ntwali']}",2
+01_answer.json,10,"{'LOC': ['Kigali'], 'PER': ['Bwana Mugenzi'], 'ORG': ['Polisi y’u Rwanda']}",3
+18_answer.json,1,"{'LOC': ['Nyabike', 'Rwanda', 'Gasore', 'Gas', 'Nyabikere']}",5
+18_answer.json,2,"{'LOC': ['Kigali', 'Ga'], 'PER': ['san', 'Bwana Mugisha'], 'DATE': ['uyu mwaka']}",5
+18_answer.json,3,"{'PER': ['Kalisa', 'Kali', 'sa']}",3
+18_answer.json,4,"{'LOC': ['Mabali'], 'PER': ['Kamanzi']}",2
+18_answer.json,5,"{'LOC': ['Kanyamumbogo', 'Kanyamumbo', 'Amerika'], 'PER': ['Japhet'], 'DATE': ['Nyakanga'], 'ORG': ['CI']}",6
+18_answer.json,6,"{'PER': ['Kamanzi. Kamanzi', 'Kamanzi']}",2
+18_answer.json,7,"{'LOC': ['Nyabizaro', 'Nya'], 'PER': ['Karangwa Samuel', 'Kara', 'Karangwa']}",5
+18_answer.json,8,"{'LOC': ['Kigali', 'Rugunga', 'Rwibut', 'Rwanda', 'Canada'], 'DATE': ['15 Ukwakira 2023', 'yine'], 'ORG': ['Radiyo y’Igihugu', 'YouTube'], 'PER': ['Habimana Jean', 'Habimana']}",11
+18_answer.json,9,"{'LOC': ['Bumisagara'], 'PER': ['Kamanzi']}",2
+18_answer.json,10,"{'PER': ['Buhoro Ndihangana'], 'LOC': ['Buhoro']}",2
+04_answer.json,1,"{'LOC': ['Kizima', 'zima'], 'PER': ['Ki', 'Rugabiro I']}",4
+04_answer.json,2,"{'LOC': ['Mwendozi', 'Karikazi', 'Nyanziana'], 'PER': ['Mwendozi', 'Rugara IV']}",5
+04_answer.json,3,"{'LOC': ['Afrika', 'Gisenyi'], 'PER': ['Nyamibanda', 'Iz', 'wa', 'tatu']}",6
+04_answer.json,4,"{'PER': ['Kazuliah'], 'LOC': ['Afrika'], 'DATE': ['1980']}",3
+04_answer.json,5,"{'LOC': ['Nyafurika', 'Kibumbe', 'bu', 'A', 'majyambere'], 'PER': ['Ki', 'mbe', 'Kibumbe', 'Gahunda wa Rutagamba'], 'DATE': ['1994']}",10
+04_answer.json,6,"{'DATE': ['kinyejana cya 21,'], 'LOC': ['Burindistan', 'Bur'], 'PER': ['Rwabugiri']}",4
+04_answer.json,7,"{'PER': ['Eldoria', 'El', 'Arkelion'], 'LOC': ['do', 'Eldoria']}",5
+04_answer.json,8,"{'PER': ['Veridiana', 'Kavidara wa III', 'Norendi'], 'LOC': ['Afurika'], 'DATE': ['1934']}",5
+04_answer.json,9,"{'LOC': ['Afurika', 'Gitwana', 'wana', 'gi', 'Agahoz', ""Afurika y'Uburasirazuba""]}",6
+04_answer.json,10,"{'LOC': ['Arcadia', 'do'], 'PER': ['Eldoria', 'El', 'ria', 'Arlen', 'Call', 'Aureli']}",8
+11_answer.json,1,"{'DATE': ['kwa Kamena 2023', '15 Gicurasi 2023', '22 Kamena'], 'PER': ['Jean-Paul Nkusi', 'Nkusi', 'Jean-Paul']}",6
+11_answer.json,2,"{'LOC': ['Nyamirambo', 'Kinyarwa'], 'PER': ['Eugene Ndayishimiye', 'Eugene']}",4
+11_answer.json,3,"{'LOC': ['Karindi'], 'PER': ['Bosco Ndayambaje', 'Bosco'], 'ORG': ['Karindi News Network', 'KNN']}",5
+11_answer.json,4,"{'LOC': ['Nirandam', 'Pasifika', 'Lumanga'], 'PER': ['Jacob Mwanza', 'Jacob'], 'DATE': ['23 Ukwakira']}",6
+11_answer.json,5,"{'PER': ['Kanyarwanda Rubona', 'Kanyar', 'a']}",3
+11_answer.json,6,"{'LOC': ['Karibu', '""', 'Kugaragara'], 'PER': ['Adeline Mukamana', 'Adeline'], 'ORG': ['Inteko Ishinga Amategeko', 'Reporters Without Borders']}",7
+11_answer.json,7,"{'PER': ['Jean-Paul Mugenzi', 'Jean-Paul']}",2
+11_answer.json,8,"{'LOC': ['Rwimiya', 'Karubanda', 'shinja'], 'PER': ['Karangwa Jean-Paul', 'Karangwa']}",5
+11_answer.json,9,"{'LOC': ['Karanda'], 'PER': ['Alex Ndayisaba', 'Alex'], 'ORG': ['Karanda Independent']}",4
+11_answer.json,10,"{'LOC': ['Karindiza'], 'DATE': ['umwer', 'itanu', ""saa sita z'amanywa""], 'PER': ['Samuel Gatete', 'Bwana Gatete', 'Gatete']}",7
+23_answer.json,1,"{'DATE': ['14 Ukwakira 2023'], 'LOC': ['Sitade ya Kigali', 'Rwanda', 'Gas', 'Kiy'], 'ORG': ['Gasogi United', 'Kiyovu Sports', 'ogi'], 'PER': ['Jean-Pierre Mugisha', 'Eric Nshimiyimana', 'Jacques Mugenzi']}",11
+23_answer.json,2,"{'DATE': ['', 'uyu wa Gatandatu ushize'], 'LOC': ['Stade Amahoro', 'Kigali', 'Rwanda'], 'ORG': ['Rayon Sports', 'APR FC', 'FERWAFA']}",8
+23_answer.json,3,"{'DATE': ['', ""uyu wa Gatandatu w'icyumweru g""], 'ORG': ['Kigali Heroes FC', 'Nyamirambo Titans FC'], 'LOC': ['Stade Amahoro']}",5
+23_answer.json,4,"{'DATE': [""Ku wa Gatandatu w'icyumweru gishize"", 'ka'], 'LOC': ['Kigali', 'Rwanda'], 'ORG': ['Gasogi United', 'APR FC', 'ogi', 'APR'], 'PER': ['Gas', 'Mugisha Jean Paul', 'Niyonzima Olivier']}",11
+23_answer.json,5,"{'LOC': ['Kigali', 'maj'], 'DATE': ['ku wa Gatandatu']}",3
+23_answer.json,6,{'LOC': ['Stade Amahoro']},1
+23_answer.json,7,"{'DATE': ['ku wa Gatandatu', 'kuwa 14 Ukwakira 2023'], 'LOC': ['Kigali', 'Sitade Amahoro'], 'ORG': ['Intare FC', 'Ingoma United']}",6
+23_answer.json,8,{},0
+23_answer.json,9,"{'LOC': ['Stade Nkunda'], 'ORG': ['Gasare FC', 'Intare United', 'VAR', 'Polisi']}",5
+23_answer.json,10,"{'ORG': ['""Intare FC', '""', 'Ingogo United', 'Intare FC', ""'"", 'Polisi'], 'LOC': ['Amahoro', 'Burayi']}",8
+20_answer.json,1,"{'LOC': ['Karindir', 'Kwi', 'Kwizera', 'Karindiro']}",4
+20_answer.json,2,"{'LOC': ['Nyantanga', 'Nya']}",2
+20_answer.json,3,"{'ORG': ['Rimaginary'], 'PER': ['Karenzi Mbogo']}",2
+20_answer.json,4,{'LOC': ['Ki']},1
+20_answer.json,5,"{'DATE': ['15 Ukwakira'], 'ORG': [""Minisiteri y'Umuco n'Itangazama""], 'LOC': ['A', 'bantania']}",4
+20_answer.json,6,"{'LOC': ['Ki', 'gali', 'Rwanda'], 'DATE': ['15 Ukwakira'], 'PER': ['Jean-Paul Nahimana', 'Aline Uwizeye']}",6
+20_answer.json,7,"{'LOC': ['Kawanzaland'], 'ORG': ['Minisiteri y’Umuco']}",2
+20_answer.json,8,"{'LOC': ['Nyiraneza'], 'ORG': ['Nyiraneza Films'], 'PER': ['Mizero Samuragwa']}",3
+20_answer.json,9,"{'LOC': ['Nyamirambo', 'Mataba']}",2
+20_answer.json,10,"{'LOC': ['Korutanzi', 'Korutan']}",2
+12_answer.json,1,{'PER': ['Kanyar']},1
+12_answer.json,2,"{'ORG': [""y'Igihu""], 'PER': ['Komini Gatisibo'], 'DATE': ['1998']}",3
+12_answer.json,3,"{'DATE': ['2023'], 'LOC': ['Rwamayaga', '“', 'Amajyaruguru Yambukiranya Nyabarongo'], 'PER': ['Rwamayaga']}",5
+12_answer.json,4,{'LOC': ['Kijyambere']},1
+12_answer.json,5,"{'LOC': ['Ki', 'Nyumundswi', 'Ny', 'munds'], 'PER': ['Nya']}",5
+12_answer.json,6,{},0
+12_answer.json,7,{'LOC': ['Ngirwa']},1
+12_answer.json,8,"{'DATE': ['1987'], 'LOC': ['Kiremera'], 'PER': ['Kayita', 'Kay', 'Kamurinda']}",5
+12_answer.json,9,"{'LOC': ['Nyamurembo', 'Kinyarur', 'Banyamwit']}",3
+12_answer.json,10,"{'DATE': ['1987'], 'LOC': ['Nyamurinda', 'Kirehe']}",3
+07_answer.json,1,"{'DATE': ['2022', 'kwe', 'kwa', 'Gashyantare 2023'], 'LOC': ['Karibanda'], 'PER': ['Alex Nkubito', 'Bwana Nkubito']}",7
+07_answer.json,2,"{'PER': ['Karoli Nshimiyimana', 'Nshimiyimana'], 'LOC': ['Rwanda', 'Kigali', 'Ki', 'gali'], 'DATE': ['2023', '2021', 'Werurwe']}",9
+07_answer.json,3,"{'DATE': [""kwezi k'Ukwakira umwaka"", '2023'], 'PER': ['Emmanuel Hakizimana', 'Bwana', 'Hakizimana']}",5
+07_answer.json,4,"{'LOC': ['Munt', 'Nyamivugo', 'majyaruguru y’', 'U'], 'PER': ['Mfuranzima Mvura', 'Général', 'Mfuranzima']}",7
+07_answer.json,5,"{'PER': ['Bwana Kagabo'], 'DATE': ['2020'], 'LOC': ['G', 'suku']}",4
+07_answer.json,6,"{'LOC': ['Nyamirambo'], 'PER': ['Samweli Ntaganda', 'Ntaganda']}",3
+07_answer.json,7,"{'DATE': ['12 Kanama 2023'], 'LOC': ['Kigali'], 'PER': ['Jean-Paul Ndashimye', 'Bwana', 'Ndashimye', 'Bwana Ndashimye', 'Alice Mukamana']}",7
+07_answer.json,8,"{'PER': ['Kalisa Nduwayezu Icy', 'Kalisa Nduwayezu', 'Kalisa'], 'LOC': ['Kivu']}",4
+07_answer.json,9,"{'LOC': ['Munt', 'Kigali', 'Ru'], 'DATE': ['Nyakanga', '2023', 'Mu cyumweru cya mbere cy'], 'PER': ['Bwana Innocent Nzabandora', 'Bwana Nzabandora', 'Jean Mugisha']}",9
+07_answer.json,10,"{'PER': ['Jean-Claude Nshimiyimana', 'Nshimiyimana', 'Claire Mukamwezi']}",3
+02_answer.json,1,"{'PER': ['Rurambiranwa', 'Iyamarwa', 'Mum', 'Du'], 'DATE': ['kwa', 'Munani umwaka ushize'], 'LOC': ['Mum', 'Kabarara'], 'ORG': ['Polisi']}",9
+02_answer.json,2,"{'DATE': ['2023'], 'PER': ['Mika Ntamwumba', 'Evelyne Uwase', 'Samson Mutangan']}",4
+02_answer.json,3,"{'LOC': ['Kimenyi', 'Nyamirambo'], 'DATE': ['Uyu mwaka'], 'PER': ['Bwana Mugabe', 'Niyonsenga']}",5
+02_answer.json,4,"{'DATE': ['2025'], 'LOC': ['Kinyarukundo'], 'PER': ['Manzi Jean-Paul', 'Uwase Aline.', 'Manzi']}",5
+02_answer.json,5,"{'LOC': ['Kiramira'], 'DATE': ['2023'], 'PER': ['Mussa Kamana', 'Immaculée Ntamuhanga', 'Mussa', 'Ntamuhanga'], 'ORG': ['PRP (', 'Parti du Renouveau Populaire']}",8
+02_answer.json,6,"{'LOC': ['Nkundabandi', 'Gikundi', 'Kibiri', 'Kimiron'], 'PER': ['Katabazi']}",5
+02_answer.json,7,"{'LOC': ['Heruwo', 'Ingabir'], 'DATE': ['ku ya 12 Ukwakira'], 'ORG': ['Komisiyo y’Igihugu y’Amatora'], 'PER': ['Tuvugimana Kazungu', 'me Ingabire Agnes', 'Ingabire', 'e']}",8
+02_answer.json,8,"{'LOC': ['Republika ya Nyamiriyango', 'Nyamiriyango'], 'PER': ['Michel Ntibarikure', 'Robert Mugwaneza', 'Bwana Ntibarikure', 'Bwana Mugwaneza'], 'ORG': ['Demokarasi Iharanira Amahoro', 'DIA', ""Imbaraga z'Abaturage"", 'IZA'], 'DATE': ['15 Ukuboza', '16 Ukuboza']}",12
+02_answer.json,9,"{'LOC': ['Karindera'], 'PER': ['Bwana Kamali', 'Kamal', 'Mada', 'Nkurikiye']}",5
+02_answer.json,10,"{'LOC': ['Kayonza'], 'PER': ['Simon Mbabazi', 'Mbabazi', 'Adeline Murigande'], 'DATE': ['tora y’uyu mwaka']}",5
+17_answer.json,1,"{'PER': ['Amara Ndizeye', 'Amar', 'a Ndizeye'], 'LOC': ['Rwanda', 'Kigali', 'Amerika', 'Amar']}",7
+17_answer.json,2,"{'PER': ['Kiza Muntu', 'Ki', 'Kiza'], 'LOC': ['Huy', 'Rwanda', 'za']}",6
+17_answer.json,3,"{'LOC': ['Ngirimata', 'Gicu'], 'PER': ['Kayizari. Kayizar', 'Kayizar', 'Kayizari']}",5
+17_answer.json,4,"{'LOC': ['Kigali', 'Rwanda', 'Ki', 'furika y’Iburasirazuba'], 'PER': ['Aline Uwase', 'Aline']}",6
+17_answer.json,5,"{'LOC': ['Rwanda'], 'PER': ['Kimenyi Alexis'], 'ORG': ['Afrobeat']}",3
+17_answer.json,6,"{'LOC': ['Kigali', 'man', 'Nyanza', 'Ki', 'gali'], 'PER': ['Aimé Nkurunziza', 'Ai', 'mé Nkurunziza', 'Aimé', 'G', 'duye Ama'], 'DATE': ['uyu mwaka']}",12
+17_answer.json,7,"{'DATE': ['Kamena 2023'], 'PER': ['Amélie A', 'Léopold Sédar Senghor', 'mélie A', 'Sean Kingston', 'Angelique Kidjo', 'Amélie Amani'], 'LOC': ['Afurika', 'Dakar', 'Senegal', ""Côte d'Ivoire"", 'Jamaica', 'Burundi'], 'ORG': ['Afrobeat']}",14
+17_answer.json,8,"{'LOC': ['Kigali', 'Rwanda'], 'PER': ['Kizito Mwene Mugenzi'], 'DATE': ['kuva mu 2010,']}",4
+17_answer.json,9,"{'LOC': ['Nya'], 'PER': ['Karengera Harerimana', 'Har', 'Harerimana'], 'DATE': ['Gicurasi']}",5
+17_answer.json,10,"{'DATE': ['2025'], 'PER': ['Kwizera Melodie', 'Kwizera', 'Jacob Collier', 'Angelique Kidjo'], 'LOC': ['Rwanda', 'Afurika', 'Kigali'], 'ORG': ['MTV Africa Music Awards', 'MBWERA']}",10

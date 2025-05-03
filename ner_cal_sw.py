@@ -1,39 +1,41 @@
 import json
 import pandas as pd
-from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline
 import os
+from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline
 
-FOLDER_PATH = "/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/Row_Resourced/kin_data" 
-OUTPUT_CSV = "kin_NER_output.csv"
 
-# Kinyarwanda NER model
-model_name = 'mbeukman/xlm-roberta-base-finetuned-ner-kinyarwanda'
+FOLDER_PATH = "/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/sw_data"  
+OUTPUT_CSV = "ner_swahili_output.csv"
+
+
+# Load the Swahili NER model
+model_name = "mbeukman/xlm-roberta-base-finetuned-ner-swahili"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForTokenClassification.from_pretrained(model_name)
 ner_pipeline = pipeline("ner", model=model, tokenizer=tokenizer, aggregation_strategy="simple")
 
-# Prepare output rows
 data_rows = []
 
-# Loop through all .json files in the folder
+# Loop over all .json files in the folder
 for filename in os.listdir(FOLDER_PATH):
     if filename.endswith(".json"):
         json_path = os.path.join(FOLDER_PATH, filename)
         
         with open(json_path, 'r', encoding='utf-8') as f:
             stories = json.load(f)
-            
+
             for story in stories:
                 story_id = story.get("story_id", None)
                 text = story.get("text", "")
                 
+                # Run NER
                 ner_results = ner_pipeline(text)
                 
-                # Group and deduplicate entities
+                # Organize entities
                 grouped_entities = {}
-                for r in ner_results:
-                    label = r['entity_group']
-                    entity = r['word']
+                for ent in ner_results:
+                    label = ent['entity_group']
+                    entity = ent['word']
                     if label not in grouped_entities:
                         grouped_entities[label] = []
                     if entity not in grouped_entities[label]:
@@ -48,10 +50,8 @@ for filename in os.listdir(FOLDER_PATH):
                     'number_of_ner_tags': total_entities
                 })
 
-# Convert to DataFrame
+# Convert to CSV
 df = pd.DataFrame(data_rows)
-
-# Save to CSV
 output_path = os.path.join(FOLDER_PATH, OUTPUT_CSV)
 df.to_csv(output_path, index=False)
 

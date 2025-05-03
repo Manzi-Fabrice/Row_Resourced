@@ -1,0 +1,21 @@
+=== Combined Repetition Report (SW) ===
+
+---- prompt_23 ----
+| Entity | Direct Rate | Component Rate |
+|--------|-------------|-----------------|
+| PER  |     80.00% |          80.00% |
+| LOC  |     18.75% |          34.78% |
+| ORG  |      0.00% |           0.00% |
+| DATE |     33.33% |          50.00% |
+
+Top Repeating Entities:
+- PER: mani
+- LOC: afrika, Nairobi
+- DATE: Siku moja
+
+Top Repeating Components:
+- PER: mani
+- LOC: nairobi, uwanja, wa
+- DATE: siku, moja, chache
+
+==================================================

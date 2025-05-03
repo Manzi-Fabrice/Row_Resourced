@@ -1,0 +1,21 @@
+=== Combined Repetition Report (KIN) ===
+
+---- prompt_23 ----
+| Entity | Direct Rate | Component Rate |
+|--------|-------------|-----------------|
+| PER  |      3.45% |           7.50% |
+| LOC  |     35.71% |          31.25% |
+| ORG  |     25.00% |          14.29% |
+| DATE |      0.00% |           0.00% |
+
+Top Repeating Entities:
+- PER: Angelique Kidjo
+- LOC: Rwanda, Kigali, Afurika
+- ORG: Afrobeat
+
+Top Repeating Components:
+- PER: a, angelique, kidjo
+- LOC: rwanda, kigali, afurika
+- ORG: afrobeat
+
+==================================================

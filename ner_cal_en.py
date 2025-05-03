@@ -2,65 +2,53 @@ import json
 import pandas as pd
 import os
 from transformers import pipeline
+import ast  # Add this for safe string-to-dict conversion
 
-# Load Hugging Face NER pipeline
+FOLDER_PATH = "/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/Row_Resourced/en_data" 
+OUTPUT_CSV = "En_NER_output.csv"
+
 ner_pipeline = pipeline(
     "ner",
-    model="dslim/bert-base-NER",  # English NER model
+    model="dslim/bert-base-NER",
     aggregation_strategy="simple"
 )
 
-# Paths to your English datasets
-datasets = [
-    "/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/sport_en.json",
-    "/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/showbie_en.json",
-    "/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/sad_scandal_en.json",
-    "/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/politic_en.json",
-    "/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/pol_en.json",
-    "/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/nature_en.json"
-]
-
-# Empty list to collect rows
 data_rows = []
 
-# Go through each dataset
-for dataset_path in datasets:
-    dataset_name = os.path.basename(dataset_path)
-    
-    with open(dataset_path, 'r', encoding='utf-8') as f:
-        stories = json.load(f)
+for filename in os.listdir(FOLDER_PATH):
+    if filename.endswith(".json"):
+        json_path = os.path.join(FOLDER_PATH, filename)
         
-        for story in stories:
-            story_id = story['story_id']
-            text = story['text']
+        with open(json_path, 'r', encoding='utf-8') as f:
+            stories = json.load(f)
             
-            # Run NER
-            ner_results = ner_pipeline(text)
-            
-            # Group entities by label
-            grouped_entities = {}
-            for ent in ner_results:
-                label = ent['entity_group']
-                entity = ent['word']
-                if label not in grouped_entities:
-                    grouped_entities[label] = []
-                if entity not in grouped_entities[label]:  # avoid duplicates
-                    grouped_entities[label].append(entity)
-            
-            total_entities = sum(len(v) for v in grouped_entities.values())
-            
-            # Add row
-            data_rows.append({
-                'dataset_name': dataset_name,
-                'dataset_number': story_id,
-                'ner_tagging': grouped_entities,
-                'number_of_ner_tags': total_entities
-            })
+            for story in stories:
+                story_id = story.get("story_id", None)
+                text = story.get("text", "")
+                
+                ner_results = ner_pipeline(text)
+                
+                grouped_entities = {}
+                for ent in ner_results:
+                    label = ent['entity_group']
+                    entity = ent['word']
+                    if label not in grouped_entities:
+                        grouped_entities[label] = []
+                    if entity not in grouped_entities[label]:
+                        grouped_entities[label].append(entity)
+                
+                total_entities = sum(len(v) for v in grouped_entities.values())
+                
+                data_rows.append({
+                    'json_file': filename,
+                    'story_id': story_id,
+                    'ner_tagging': str(grouped_entities),  # Convert dict to string explicitly
+                    'number_of_ner_tags': total_entities
+                })
 
-# Create DataFrame
+# Create DataFrame and save
 df = pd.DataFrame(data_rows)
+output_path = os.path.join(FOLDER_PATH, OUTPUT_CSV)
+df.to_csv(output_path, index=False)
 
-# Save to CSV
-df.to_csv("/Users/manzifabriceniyigaba/Desktop/Kinyarwanda/ner_en_output.csv", index=False)
-
-print("✅ English NER output saved to ner_en_output.csv")
+print(f"NER results saved to: {output_path}")
