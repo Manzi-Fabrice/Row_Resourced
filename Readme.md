@@ -1,4 +1,4 @@
-# Underrepresented Means Overexposed: An Exploration of Memorization in Multilingual LLMs
+# Underrepresented, Overexposed: How Multilingual LLMs Memorized in Low Resourced Languages 
 
 In this work, we introduce the idea that underrepresented languages in multilingual large language models (LLMs) are not simply underfitted, as previous studies suggest, but rather overexposed. While much prior work has argued that LLMs underperform on low-resource languages due to limited training data and NLP resources (such as tokenizers), our preliminary experiments suggest a different perspective.
 
